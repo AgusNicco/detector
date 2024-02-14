@@ -1,0 +1,10 @@
+My father came in through the door. Around his arms, I saw a box labeled "PS2". I was dumbfounded as my dad looked for the nearest outlet, plugged in the cables, and handed me a controller. We opened up a video game case and turned on the console. We died countless times exploring every level and learning every detail. Some fathers and sons have sports. We had our games. 
+The game quickly came to an end. On the other hand, my new and unexplored love for video games and technology had only just begun and became a new obsession I could enjoy. This soon translated into a passion for programming and inspired my interest in developing software as a career.
+
+
+He looked at me, eyes wide in amazement.
+“How did you do that?” the new member inquired as the words “Hello World” popped up on the computer screen. Until recently, James did not have the faintest idea what Java was, yet now he was enthralled by the simple and necessary first program to encounter before becoming a programmer.
+Moments such as this one, which occurred often while being president of the Computer Science Club, and the lack of a comprehensive computer science program offered at my school only motivated my drive to teach others about programming. I wanted to not only recreate my fascination for computer science in others, but also share my knowledge with the community around me. 
+
+I sit in the stands, still nervous, and stare at the playing field in front of me. It was my first time attending a FIRST Robotics competition. As I heard "3...2...1... POWER UP!", my eyes were riveted on the six robots entering autonomous mode in front of me, like a child staring at a television for hours on end. Team 5199 speeds toward the switch and drops a box and reverses quickly to grab another. I gasped for air, refusing to believe what I just witnessed. 
+Through FIRST Robotics, I became inspired to pursue a newfound passion for engineering and apply my computer science knowledge to robotics.

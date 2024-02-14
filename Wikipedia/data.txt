@@ -1,0 +1,10 @@
+Test 1
+Sample size: 20
+Average accuracy: 28.91313669593665%
+Standard deviation: 6.594198687321287
+
+Test 1
+Sample size: 10
+Words per input: 100;
+Average accuracy: 28.19727168593148%
+Standard deviation:  8.189201567902659

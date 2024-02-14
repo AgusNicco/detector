@@ -1,0 +1,9 @@
+Human article test 1
+Sample: 10
+Average accuracy: 34.434982477839625%
+Standard deviation: 5.33115639409929
+
+Human article test 2
+Sample: 10 (same set as before but new function to compare strings)
+Average accuracy: 31.955555555555556%
+Standard deviation: 5.496769232253962
